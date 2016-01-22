@@ -1,7 +1,7 @@
 {
   "name": "SparkFun-SerLCD",
   "keywords": "lcd",
-  "description": "Library Library to simplify communication with SparkFun's SerLCD 2.5",
+  "description": "Library to simplify communication with SparkFun's SerLCD 2.5",
   "repository":
   {
     "type": "git",
